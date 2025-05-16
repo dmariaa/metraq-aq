@@ -12,3 +12,7 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+
+## Contributing
+
+All contributions welcome! All content in this repository is licensed under the MIT license.
